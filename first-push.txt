@@ -1,1 +1,1 @@
-Modification pour l'exercice 3 du Brief.
+Modification pour l'exo 7 (Test des différences)
