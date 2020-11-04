@@ -1,1 +1,1 @@
-Modification pour l'exo 7 (Test des différences)
+commit prouvant que j'ai bien tiré le repo Github de exo6
