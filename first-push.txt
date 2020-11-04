@@ -1,1 +1,3 @@
-commit prouvant que j'ai bien tiré le repo Github de exo6
+Ceci est une modif pour l'exo 7 du Brief Git/Github
+
+(En tapant git diff, j'ai bien vu les différences après et avant édition de mon fichier)
